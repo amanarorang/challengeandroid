@@ -1,0 +1,17 @@
+<layer-list xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="schema-address"
+    tools:ignore="NamespaceTypo">
+    <item>
+        <shape>
+            <corners android:radius="10dp"/>
+            <padding android:left="10dp" android:right="10dp" android:top="10dp" android:bottom="10dp"/>
+            <solid android:color="#FFCCCCCC"/>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:left="7dp" android:right="7dp" android:top="7dp" android:bottom="7dp"/>
+            <solid android:color="#FFFFFFFF"/>
+        </shape>
+    </item>
+</layer-list>
